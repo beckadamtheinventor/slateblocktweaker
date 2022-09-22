@@ -1,0 +1,17 @@
+__Generated:
+@: block
+block: GroundBlock
+BlockClass: RockSmasherBlock
+contentid: rock_smashing_table
+droptype: Self
+hardness: 5.0
+material: STONE
+requiresTool: yes
+resistance: 6.0
+sounds: DEEPSLATE
+texture_bottom: rock_smasher_bottom.png
+texture_side: rock_smasher_side.png
+texture_top: rock_smasher_top.png
+title: Rock Smasher
+toolclass: PICKAXES
+toollevel: STONE

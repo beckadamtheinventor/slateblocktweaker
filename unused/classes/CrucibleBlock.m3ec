@@ -1,0 +1,5 @@
+@: class
+file: java/CrucibleBlock.java
+class: ${mod.package}.registry.CrucibleBlock
+modloader: fabric
++gameversions: 1.18.2

@@ -1,0 +1,15 @@
+__Generated:
+@: block
+block: SimpleBlock
+contentid: smashed_gravel
+droptype: Self
+hardness: 0.5
+material: SOIL
+requiresTool: no
+toolclass: SHOVELS
+toollevel: WOOD
+resistance: 0.5
+sounds: SAND
+texture: smashed_gravel.png
+title: Smashed Gravel
+toollevel: STONE

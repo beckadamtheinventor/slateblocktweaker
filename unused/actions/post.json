@@ -1,0 +1,52 @@
+[
+	{
+		"action": "copyf",
+		"source": "${project_path}/json/blockstates/crucible.json",
+		"dest": "${build_path}/src/main/resources/assets/${mod.mcpath}/blockstates/crucible.json"
+	},
+	{
+		"action": "copyf",
+		"source": "${project_path}/json/blockmodels/crucible.json",
+		"dest": "${build_path}/src/main/resources/assets/${mod.mcpath}/models/block/crucible.json"
+	},
+	{
+		"action": "copyf",
+		"source": "${project_path}/json/blockmodels/crucible_contents_ready.json",
+		"dest": "${build_path}/src/main/resources/assets/${mod.mcpath}/models/block/crucible_contents_ready.json"
+	},
+	{
+		"action": "copyf",
+		"source": "${project_path}/json/blockmodels/crucible_contents1.json",
+		"dest": "${build_path}/src/main/resources/assets/${mod.mcpath}/models/block/crucible_contents1.json"
+	},
+	{
+		"action": "copyf",
+		"source": "${project_path}/json/blockmodels/crucible_contents2.json",
+		"dest": "${build_path}/src/main/resources/assets/${mod.mcpath}/models/block/crucible_contents2.json"
+	},
+	{
+		"action": "copyf",
+		"source": "${project_path}/json/blockmodels/crucible_contents3.json",
+		"dest": "${build_path}/src/main/resources/assets/${mod.mcpath}/models/block/crucible_contents3.json"
+	},
+	{
+		"action": "copyf",
+		"source": "${project_path}/json/blockmodels/crucible_contents4.json",
+		"dest": "${build_path}/src/main/resources/assets/${mod.mcpath}/models/block/crucible_contents4.json"
+	},
+	{
+		"action": "copyf",
+		"source": "${project_path}/json/blockmodels/crucible_contents5.json",
+		"dest": "${build_path}/src/main/resources/assets/${mod.mcpath}/models/block/crucible_contents5.json"
+	},
+	{
+		"action": "copyf",
+		"source": "${project_path}/json/blockmodels/crucible_contents6.json",
+		"dest": "${build_path}/src/main/resources/assets/${mod.mcpath}/models/block/crucible_contents6.json"
+	},
+	{
+		"action": "copyf",
+		"source": "${project_path}/json/blockmodels/crucible_contents7.json",
+		"dest": "${build_path}/src/main/resources/assets/${mod.mcpath}/models/block/crucible_contents7.json"
+	}
+]

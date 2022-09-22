@@ -1,0 +1,12 @@
+@: recipe
+contentid: stone_rod_${%v}_diorite_pebble
+recipe: ShapedRecipe
++itemkeys: p
++items: ${mod.mcpath}:diorite_pebble
++itemkeys: b
++items: ${%v}
++pattern: "p"
++pattern: "b"
+result: ${stone_rod_item}
+count: 1
+@iterate pebble_items

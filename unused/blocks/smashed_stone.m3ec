@@ -1,0 +1,14 @@
+__Generated:
+@: block
+block: SimpleBlock
+contentid: smashed_stone
+droptype: Self
+hardness: 1.5
+material: STONE
+requiresTool: yes
+resistance: 6.0
+sounds: STONE
+texture: smashed_stone.png
+title: smashed stone
+toolclass: PICKAXES
+toollevel: WOOD

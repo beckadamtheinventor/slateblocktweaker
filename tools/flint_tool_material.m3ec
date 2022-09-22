@@ -1,0 +1,9 @@
+@:               toolmaterial
+toolmaterial:    ToolMaterial
+contentid:       FlintToolMaterial
+durability:      48
+enchantability:  4
+miningspeed:     1.3f
+mininglevel:     0
+repairitem:      ModItems.FLINT_SHARD
+attackdamage:    0.5f

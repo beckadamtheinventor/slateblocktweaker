@@ -1,0 +1,22 @@
+@: block
+block: SimpleBlock
+contentid: flint_tiles
+droptype: Self
+hardness: ${mc.tuff.hardness}
+material: STONE
+resistance: ${mc.tuff.hardness}
+sounds: TUFF
+texture: flint_tiles.png
+title: Flint Tiles
+toolclass: PICKAXE
+toollevel: WOOD
+autogenerate:
+.slab: yes
+.slab.recipe: yes
+.slab.stonecuttingrecipe: yes
+.stairs: yes
+.stairs.recipe: yes
+.stairs.stonecuttingrecipe: yes
+.wall: yes
+.wall.recipe: yes
+.wall.stonecuttingrecipe: yes

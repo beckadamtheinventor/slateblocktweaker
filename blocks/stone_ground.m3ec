@@ -1,0 +1,24 @@
+@: block
+block: SimpleBlock
+contentid: stone_ground
+droptype: Item
+drops: ${mod.mcpath}:pebble
+dropcount: 2
+hardness: 1.0
+material: SOIL
+resistance: 6.0
+sounds: STONE
+texture: stone_ground.png
+title: Stone Ground
+toolclass: PICKAXE
+toollevel: NONE
+# autogenerate:
+# .slab: yes
+# .slab.recipe: yes
+# .slab.stonecuttingrecipe: yes
+# .stairs: yes
+# .stairs.recipe: yes
+# .stairs.stonecuttingrecipe: yes
+# .wall: yes
+# .wall.recipe: yes
+# .wall.stonecuttingrecipe: yes

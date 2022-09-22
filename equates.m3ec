@@ -1,0 +1,23 @@
+
++sapling_types: oak
++sapling_types: spruce
++sapling_types: acacia
++sapling_types: birch
++sapling_types: jungle
++sapling_types: dark_oak
+
++pebble_items:  ${mod.mcpath}:pebble
++pebble_items:  ${mod.mcpath}:andesite_pebble
++pebble_items:  ${mod.mcpath}:diorite_pebble
++pebble_items:  ${mod.mcpath}:granite_pebble
+
+rubber_sapling_item:               techreborn:rubber_sapling
+sap_item:                          techreborn:sap
+rubber_item:                       techreborn:rubber
+stone_rod_item:                    adorn:stone_rod
+andesite_cobblestone_item:         consistency_plus:cobbled_andesite
+diorite_cobblestone_item:          consistency_plus:cobbled_diorite
+granite_cobblestone_item:          consistency_plus:cobbled_granite
+
+@include dust_types.m3ec
+@include dust_items.m3ec

@@ -1,0 +1,13 @@
+@: block
+block: SimpleBlock
+contentid: wooden_crucible
+customclass: CrucibleBlock
+droptype: Self
+hardness: ${mc.composter.hardness}
+material: WOOD
+resistance: ${mc.composter.resistance}
+sounds: WOOD
+texture: gravelly_silt.png
+title: Wooden Crucible
+toolclass: AXE
+toollevel: NONE

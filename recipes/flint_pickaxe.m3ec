@@ -1,0 +1,9 @@
+@: recipe
+recipe: ShapelessRecipe
+contentid: flint_pickaxe
++ingredients: slateblocktweaker:flint_rod
++ingredients: slateblocktweaker:flint_shard
++ingredients: slateblocktweaker:flint_shard
++ingredients: slateblocktweaker:flint_shard
+result: slateblocktweaker:flint_pickaxe
+count: 1

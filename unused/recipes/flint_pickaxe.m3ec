@@ -1,0 +1,14 @@
+@: recipe
+contentid: flint_pickaxe
+count: 1
++itemkeys: t
++itemkeys: s
++itemkeys: S
++items: ${mod.mcpath}:flint_rod
++items: ${mod.mcpath}:flint_shard
++items: minecraft:flint
++pattern: "sSs"
++pattern: " t "
++pattern: " t "
+recipe: ShapedRecipe
+result: ${mod.mcpath}:flint_pickaxe

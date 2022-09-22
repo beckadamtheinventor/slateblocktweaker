@@ -1,0 +1,15 @@
+__Generated:
+@: recipe
+contentid: smashed_stone
+count: 4
++ingredients: slateblocktweaker:cobblestone_smasher
++ingredients: minecraft:cobblestone
++ingredients: minecraft:cobblestone
++ingredients: minecraft:cobblestone
++ingredients: minecraft:cobblestone
++ingredients: minecraft:cobblestone
++ingredients: minecraft:cobblestone
++ingredients: minecraft:cobblestone
++ingredients: minecraft:cobblestone
+recipe: ShapelessRecipe
+result: slateblocktweaker:smashed_stone

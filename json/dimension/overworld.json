@@ -1,0 +1,52 @@
+{
+  "type": "minecraft:overworld",
+  "generator": {
+    "type": "minecraft:flat",
+	"settings": {
+		"layers": [
+			{
+				"height": 1,
+				"block": "minecraft:bedrock"
+			},
+			{
+				"height": 61,
+				"block": "minecraft:deepslate"
+			},
+			{
+				"height": 61,
+				"block": "minecraft:stone"
+			},
+			{
+				"height": 2,
+				"block": "${mod.mcpath}:gravelly_silt"
+			},
+			{
+				"height": 1,
+				"block": "${mod.mcpath}:stone_ground"
+			}
+		],
+		"biome": "minecraft:stony_shore",
+		"lakes": true,
+		"features": true,
+		"structures": {
+			"stronghold": {
+				"count": 8,
+				"distance": 1000,
+				"spread": 500
+			},
+			"structures": {
+				"minecraft:nether_fossil": {
+					"spacing": 20,
+					"separation": 10,
+					"salt": 420
+				},
+				"minecraft:mineshaft": {
+					"spacing": 12,
+					"separation": 8,
+					"salt": 65537
+				}
+			}
+		}
+	}
+  }
+}
