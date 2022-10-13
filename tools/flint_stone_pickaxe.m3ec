@@ -1,0 +1,10 @@
+@: tool
+contentid: flint_stone_pickaxe
+tool: ToolItem
+texture: flint_stone_pickaxe.png
+title: Flint and Stone Pickaxe
+class: FlintStonePickaxe
+tooltype: PickaxeItem
+material: FlintStoneToolMaterial
+attackspeed: -2.6f
+attackdamage: 3

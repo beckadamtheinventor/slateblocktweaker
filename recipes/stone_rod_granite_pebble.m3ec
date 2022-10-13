@@ -4,7 +4,7 @@ recipe: ShapedRecipe
 +itemkeys: p
 +items: ${mod.mcpath}:granite_pebble
 +itemkeys: b
-+items: ${%v}
++items: ${mod.mcpath}:${%v}
 +pattern: "p"
 +pattern: "b"
 result: ${stone_rod_item}

@@ -6,10 +6,11 @@
 +sapling_types: jungle
 +sapling_types: dark_oak
 
-+pebble_items:  ${mod.mcpath}:pebble
-+pebble_items:  ${mod.mcpath}:andesite_pebble
-+pebble_items:  ${mod.mcpath}:diorite_pebble
-+pebble_items:  ${mod.mcpath}:granite_pebble
++pebble_items:  pebble
++pebble_items:  andesite_pebble
++pebble_items:  diorite_pebble
++pebble_items:  granite_pebble
++pebble_items:  deepslate_pebble
 
 rubber_sapling_item:               techreborn:rubber_sapling
 sap_item:                          techreborn:sap

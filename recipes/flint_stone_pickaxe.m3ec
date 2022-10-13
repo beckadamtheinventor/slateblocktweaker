@@ -1,0 +1,14 @@
+@: recipe
+recipe: ShapedRecipe
+contentid: flint_stone_pickaxe
++itemkeys: s
++items: minecraft:cobblestone
++itemkeys: f
++items: ${mod.mcpath}:flint_rod
++itemkeys: p
++items: ${mod.mcpath}:flint_plate
++pattern: "sps"
++pattern: " f "
++pattern: " f "
+result: ${mod.mcpath}:flint_stone_pickaxe
+count: 1
