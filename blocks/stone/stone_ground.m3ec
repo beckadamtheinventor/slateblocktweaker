@@ -2,8 +2,8 @@
 block: SimpleBlock
 contentid: stone_ground
 droptype: Item
-drops: ${mod.mcpath}:pebble
-dropcount: 2
+drops: ${mod.mcpath}:gravelly_silt
+dropcount: 1
 hardness: 1.0
 material: SOIL
 resistance: 6.0
