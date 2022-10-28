@@ -1,0 +1,9 @@
+@: recipe
+recipe: ShapedRecipe
+contentid: flint_crafting_table
++itemkeys: b
++items: ${mod.mcpath}:flint_plate
++pattern: "bb"
++pattern: "bb"
+result: ${mod.mcpath}:flint_crafting_table
+count: 1
