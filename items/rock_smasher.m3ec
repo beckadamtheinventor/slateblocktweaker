@@ -1,7 +1,0 @@
-__Generated:
-@: item
-contentid: rock_smasher
-item: SimpleItem
-class: RockSmasher
-texture: rock_smasher.png
-title: Rock Smasher
