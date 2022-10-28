@@ -1,0 +1,15 @@
+__Generated:
+@: recipe
+contentid: gravel
+count: 4
++ingredients: slateblocktweaker:cobblestone_smasher
++ingredients: slateblocktweaker:smashed_stone
++ingredients: slateblocktweaker:smashed_stone
++ingredients: slateblocktweaker:smashed_stone
++ingredients: slateblocktweaker:smashed_stone
++ingredients: slateblocktweaker:smashed_stone
++ingredients: slateblocktweaker:smashed_stone
++ingredients: slateblocktweaker:smashed_stone
++ingredients: slateblocktweaker:smashed_stone
+recipe: ShapelessRecipe
+result: minecraft:gravel

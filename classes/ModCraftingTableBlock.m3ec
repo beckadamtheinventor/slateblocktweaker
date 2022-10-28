@@ -1,5 +1,0 @@
-@: class
-file: java/ModCraftingTableBlock.java
-class: ${mod.package}.blocks.ModCraftingTableBlock
-modloader: fabric
-+gameversions: 1.18.2

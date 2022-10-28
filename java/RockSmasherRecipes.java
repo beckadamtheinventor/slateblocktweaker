@@ -1,7 +1,4 @@
-package ${mod.package}.rocksmasher;
-
-import ${mod.package}.registry.ModItems;
-import ${mod.package}.registry.ModBlocks;
+package ${mod.package}.registry;
 
 import net.minecraft.block.Blocks;
 import net.minecraft.block.Material;

@@ -1,0 +1,13 @@
+__Generated:
+@: recipe
+contentid: flint_pickaxe
+count: 1
++itemkeys: A
++itemkeys: C
++items: minecraft:stick
++items: slateblocktweaker:flint_shard
++pattern: " CC"
++pattern: "C A"
++pattern: "  A"
+recipe: ShapedRecipe
+result: slateblocktweaker:flint_pickaxe

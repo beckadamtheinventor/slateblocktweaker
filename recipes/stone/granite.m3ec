@@ -1,0 +1,10 @@
+@: recipe
+contentid: granite
+recipe: ShapedRecipe
++itemkeys: p
++items: ${mod.mcpath}:granite_pebble
++pattern: "pp"
++pattern: "pp"
+result: minecraft:granite
+count: 1
+

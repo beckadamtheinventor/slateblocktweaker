@@ -1,6 +1,0 @@
-@: recipe
-recipe: ShapelessRecipe
-contentid: crafting_table
-+ingredients: ${mod.mcpath}:flint_crafting_table
-result: minecraft:crafting_table
-count: 1
