@@ -1,4 +1,4 @@
-package ${mod.package}.registry;
+package ${mod.package}.rocksmasher;
 
 import net.minecraft.block.BlockState;
 import net.minecraft.block.Material;
