@@ -1,5 +1,0 @@
-.+customfiles: json/rock_smasher_gravel.json src/main/resources/data/${mod.mcpath}/recipes/rock_smasher_gravel.json
-.+customfiles: json/rock_smasher_smashed_gravel.json src/main/resources/data/${mod.mcpath}/recipes/rock_smasher_smashed_gravel.json
-.+customfiles: json/rock_smasher_smashed_stone.json src/main/resources/data/${mod.mcpath}/recipes/rock_smasher_smashed_stone.json
-.+customfiles: json/rock_smasher_gravel_dust.json src/main/resources/data/${mod.mcpath}/recipes/rock_smasher_gravel_dust.json
-.+paths: recipetypes

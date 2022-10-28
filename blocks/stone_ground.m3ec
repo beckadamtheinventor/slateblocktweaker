@@ -1,0 +1,14 @@
+@: block
+block: SimpleBlock
+contentid: stone_ground
+droptype: Item
+dropitem: smashingrocks:gravelly_silt
+hardness: ${mc.dirt.hardness}
+material: STONE
+requiresTool: no
+resistance: ${mc.dirt.resistance}
+sounds: STONE
+texture: stone_ground.png
+title: Stone Ground
+toolclass: PICKAXES
+toollevel: WOOD

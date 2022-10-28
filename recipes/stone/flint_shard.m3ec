@@ -1,9 +1,0 @@
-__Generated:
-@: recipe
-contentid: flint_shard
-count: 2
-+itemkeys: A
-+items: minecraft:flint
-+pattern: " A"
-recipe: ShapedRecipe
-result: slateblocktweaker:flint_shard

@@ -1,8 +1,0 @@
-@: recipetype
-recipetype:
-contentid: rock_smashing
-class: RockSmasher
-BlockClass: RockSmasherBlock
-block: rock_smashing_table
-damage: mainhand
-remove: offhand

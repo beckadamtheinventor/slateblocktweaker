@@ -1,0 +1,16 @@
+@: block
+block: ThreeTextureBlock
+contentid: flint_crafting_table
+blockclass: ModCraftingTableBlock
+droptype: Self
+hardness: ${mc.tuff.hardness}
+material: STONE
+requiresTool: no
+resistance: ${mc.tuff.resistance}
+sounds: TUFF
+texture_top: flint_crafting_table_top.png
+texture_side: flint_crafting_table_side.png
+texture_bottom: flint_tiles.png
+title: Flint Crafting Table
+toolclass: PICKAXES
+toollevel: WOOD

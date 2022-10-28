@@ -1,0 +1,10 @@
+@: recipe
+recipe: ShapedRecipe
+contentid: flint_crafting_table
++items: 
++itemkeys: f
++items: smashingrocks:flint_plate
++pattern: "ff"
++pattern: "ff"
+result: slateblocktweaker:flint_crafting_table
+count: 1

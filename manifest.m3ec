@@ -5,25 +5,21 @@ mod:
 .credits: 
 .description: Tweaker for my SlateBlock Modpack
 .homepage: 
-.iconItem: pebble
+.iconItem: flint_crafting_table
 .license: All Rights Reserved
 .package: com.beckati.slateblocktweaker
 .+paths: blocks
-.+paths: items
 .+paths: recipes
 .+paths: ores
-.+paths: tools
 .+paths: classes
 .+paths: fuel
 .prefix: com
 .sources: 
 .textures: textures
 .title: SlateBlockTweaker
-.version: 0.1
-+moditems.imports: ${mod.package}.rocksmasher.RockSmasher
+.version: 1.0
+.+depends: smashingrocks
+smashingrocks.version: >=1.0
 +modblocks.imports: ${mod.package}.blocks.ModCraftingTableBlock
-+resourceexecactions: actions/dirs.json
 +postexecactions: actions/dimension.json
-+postexecactions: actions/loot_tables.json
-
 @include equates.m3ec

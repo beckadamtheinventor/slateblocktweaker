@@ -11,14 +11,19 @@
 +pebble_items:  diorite_pebble
 +pebble_items:  granite_pebble
 +pebble_items:  deepslate_pebble
++pebble_items:  calcite_pebble
++pebble_items:  tuff_pebble
 
 rubber_sapling_item:               techreborn:rubber_sapling
 sap_item:                          techreborn:sap
 rubber_item:                       techreborn:rubber
 stone_rod_item:                    adorn:stone_rod
+
 andesite_cobblestone_item:         consistency_plus:cobbled_andesite
 diorite_cobblestone_item:          consistency_plus:cobbled_diorite
 granite_cobblestone_item:          consistency_plus:cobbled_granite
+calcite_cobblestone_item:          consistency_plus:cobbled_calcite
+tuff_cobblestone_item:             consistency_plus:cobbled_tuff
 
 @include dust_types.m3ec
 @include dust_items.m3ec
