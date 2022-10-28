@@ -1,0 +1,10 @@
+@:               toolmaterial
+toolmaterial:    ToolMaterial
+contentid:       FlintStoneToolMaterial
+durability:      131
+enchantability:  5
+miningspeed:     2.0f
+mininglevel:     1
+miningtier:      STONE
+repairitem:      Blocks.COBBLESTONE
+attackdamage:    1.2f

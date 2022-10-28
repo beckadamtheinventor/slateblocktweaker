@@ -5,4 +5,4 @@ customclass: RockSmasher
 toolmaterial: FlintToolMaterial
 texture: rock_smasher.png
 title: Rock Smasher
-extraItemSettings: .maxDamage(32)
+extraItemSettings: .maxDamage(48)
