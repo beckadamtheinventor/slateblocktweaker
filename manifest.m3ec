@@ -9,10 +9,9 @@ mod:
 .license: All Rights Reserved
 .package: com.beckati.slateblocktweaker
 .+paths: blocks
+.+paths: items
 .+paths: recipes
-.+paths: ores
 .+paths: classes
-.+paths: fuel
 .prefix: com
 .sources: 
 .textures: textures

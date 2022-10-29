@@ -1,0 +1,10 @@
+@: recipe
+recipe: ShapedRecipe
+contentid: flint_plate
++items: 
++itemkeys: f
++items: smashingrocks:flint_shard
++pattern: "ff"
++pattern: "ff"
+result: ${mod.mcpath}:flint_plate
+count: 1

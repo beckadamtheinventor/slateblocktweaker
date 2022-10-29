@@ -1,0 +1,5 @@
+@: item
+item: SimpleItem
+contentid: flint_plate
+title: Flint Plate
+texture: flint_plate.png
