@@ -3,6 +3,7 @@ block: SimpleBlock
 contentid: stone_ground
 droptype: Item
 dropitem: smashingrocks:gravelly_silt
+dropcount: 1
 hardness: ${mc.dirt.hardness}
 material: STONE
 requiresTool: no

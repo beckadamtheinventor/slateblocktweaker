@@ -1,0 +1,21 @@
+[
+	{
+		"action": "makedir",
+		"value": [
+			"src/main/resources/data/minecraft/dimension",
+			"src/main/resources/data/slateblocktweaker",
+			"src/main/resources/data/slateblocktweaker/worldgen",
+			"src/main/resources/data/slateblocktweaker/worldgen/biome"
+		]
+	},
+	{
+		"action": "copyf",
+		"source": "${project_path}/json/data/minecraft/dimension/overworld.json",
+		"dest": "${build_path}/src/main/resources/data/minecraft/dimension/overworld.json"
+	},
+	{
+		"action": "copyf",
+		"source": "${project_path}/json/data/slateblocktweaker/worldgen/biome/stone_ground.json",
+		"dest": "${build_path}/src/main/resources/data/slateblocktweaker/worldgen/biome/stone_ground.json"
+	}
+]

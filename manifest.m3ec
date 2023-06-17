@@ -5,7 +5,7 @@ mod:
 .credits: 
 .description: Tweaker for my SlateBlock Modpack
 .homepage: 
-.iconItem: flint_crafting_table
+.iconitem: flint_crafting_table
 .license: All Rights Reserved
 .package: com.beckati.slateblocktweaker
 .+paths: blocks
@@ -20,5 +20,6 @@ mod:
 .+depends: smashingrocks
 smashingrocks.version: >=1.0
 +modblocks.imports: ${mod.package}.blocks.ModCraftingTableBlock
-+postexecactions: actions/dimension.json
++resourceexecactions: actions/data.json
+
 @include equates.m3ec

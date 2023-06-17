@@ -2,7 +2,7 @@
 	"type": "minecraft:overworld",
 	"generator": {
 		"type": "minecraft:noise",
-		"seed": 0,
+		"seed": -1,
 		"settings": {
 			"sea_level": 63,
 			"disable_mob_generation": false,
@@ -2936,7 +2936,7 @@
 										"type": "minecraft:water",
 										"offset": -1,
 										"surface_depth_multiplier": -1,
-										"add_stone_depth": true
+										"add_stone_depth": false
 									},
 									"then_run": {
 										"type": "minecraft:block",
@@ -3017,7 +3017,7 @@
 		},
 		"biome_source": {
 			"type": "minecraft:fixed",
-			"biome": "minecraft:stony_shore"
+			"biome": "slateblocktweaker:stone_ground"
 		}
 	}
 }
